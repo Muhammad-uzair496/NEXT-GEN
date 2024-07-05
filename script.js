@@ -174,7 +174,7 @@ function mobileanimation() {
         scale: 0,
         scrollTrigger: {
             trigger: '#third-mobile-section',
-            markers: true,
+            markers: false,
             scroller: "#main",
             start: 'top 80%'
         }
